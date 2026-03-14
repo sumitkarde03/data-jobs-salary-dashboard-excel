@@ -1,6 +1,8 @@
 # Excel Salary Dashboard
 
-![Dashboard Screenshot](Screenshot 2026-03-15 010908.png)
+![Dashboard Screenshot](https://github.com/sumitkarde03/data-jobs-salary-dashboard-excel/blob/main/Screenshot/Screenshot%202026-03-15%20010908.png)
+
+## Project Overview
 
 ## Project Overview
 
